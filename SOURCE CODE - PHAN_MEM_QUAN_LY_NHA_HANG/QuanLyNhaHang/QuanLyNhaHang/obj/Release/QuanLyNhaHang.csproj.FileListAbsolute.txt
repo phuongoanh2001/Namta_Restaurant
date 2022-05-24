@@ -1,0 +1,29 @@
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\bin\Release\QuanLyNhaHang.exe.config
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\bin\Release\QuanLyNhaHang.exe
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\bin\Release\QuanLyNhaHang.pdb
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\bin\Release\Guna.UI.dll
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.fAccountProfile.resources
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.fAdmin.resources
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.fLogin.resources
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.fTableManager.resources
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.Properties.Resources.resources
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.csproj.CopyComplete
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.exe
+D:\Internal Summer Vacation - L1\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.pdb
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\bin\Release\QuanLyNhaHang.exe.config
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\bin\Release\QuanLyNhaHang.exe
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\bin\Release\QuanLyNhaHang.pdb
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.fAccountProfile.resources
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.fAdmin.resources
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.fLogin.resources
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.fTableManager.resources
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.csproj.CopyComplete
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.exe
+C:\Users\Admin\Downloads\DONE\QuanLyNhaHang\QuanLyNhaHang\obj\Release\QuanLyNhaHang.pdb
